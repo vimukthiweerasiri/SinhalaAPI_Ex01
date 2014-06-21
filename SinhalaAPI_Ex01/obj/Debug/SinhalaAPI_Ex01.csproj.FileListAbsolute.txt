@@ -1,0 +1,9 @@
+D:\SF\SinhalaAPI_Ex01\SinhalaAPI_Ex01\bin\Debug\SinhalaAPI_Ex01.exe
+D:\SF\SinhalaAPI_Ex01\SinhalaAPI_Ex01\bin\Debug\SinhalaAPI_Ex01.pdb
+D:\SF\SinhalaAPI_Ex01\SinhalaAPI_Ex01\bin\Debug\Sinhala.dll
+D:\SF\SinhalaAPI_Ex01\SinhalaAPI_Ex01\obj\Debug\SinhalaAPI_Ex01.csprojResolveAssemblyReference.cache
+D:\SF\SinhalaAPI_Ex01\SinhalaAPI_Ex01\obj\Debug\SinhalaAPI_Ex01.Form1.resources
+D:\SF\SinhalaAPI_Ex01\SinhalaAPI_Ex01\obj\Debug\SinhalaAPI_Ex01.Properties.Resources.resources
+D:\SF\SinhalaAPI_Ex01\SinhalaAPI_Ex01\obj\Debug\SinhalaAPI_Ex01.csproj.GenerateResource.Cache
+D:\SF\SinhalaAPI_Ex01\SinhalaAPI_Ex01\obj\Debug\SinhalaAPI_Ex01.exe
+D:\SF\SinhalaAPI_Ex01\SinhalaAPI_Ex01\obj\Debug\SinhalaAPI_Ex01.pdb
